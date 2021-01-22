@@ -1,0 +1,9 @@
+D:\Other\Work\Personal\Assignment\ChatSystem\Chat.Repository.Core\bin\Debug\netstandard2.0\Chat.Repository.Core.deps.json
+D:\Other\Work\Personal\Assignment\ChatSystem\Chat.Repository.Core\bin\Debug\netstandard2.0\Chat.Repository.Core.dll
+D:\Other\Work\Personal\Assignment\ChatSystem\Chat.Repository.Core\bin\Debug\netstandard2.0\Chat.Repository.Core.pdb
+D:\Other\Work\Personal\Assignment\ChatSystem\Chat.Repository.Core\obj\Debug\netstandard2.0\Chat.Repository.Core.AssemblyInfoInputs.cache
+D:\Other\Work\Personal\Assignment\ChatSystem\Chat.Repository.Core\obj\Debug\netstandard2.0\Chat.Repository.Core.AssemblyInfo.cs
+D:\Other\Work\Personal\Assignment\ChatSystem\Chat.Repository.Core\obj\Debug\netstandard2.0\Chat.Repository.Core.csproj.CoreCompileInputs.cache
+D:\Other\Work\Personal\Assignment\ChatSystem\Chat.Repository.Core\obj\Debug\netstandard2.0\Chat.Repository.Core.dll
+D:\Other\Work\Personal\Assignment\ChatSystem\Chat.Repository.Core\obj\Debug\netstandard2.0\Chat.Repository.Core.pdb
+D:\Other\Work\Personal\Assignment\ChatSystem\Chat.Repository.Core\obj\Debug\netstandard2.0\Chat.Repository.Core.csprojAssemblyReference.cache

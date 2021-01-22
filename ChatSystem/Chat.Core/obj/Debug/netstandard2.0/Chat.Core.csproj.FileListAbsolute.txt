@@ -1,0 +1,12 @@
+D:\Other\Work\Personal\Assignment\ChatSystem\Chat.Core\bin\Debug\netstandard2.0\Chat.Core.deps.json
+D:\Other\Work\Personal\Assignment\ChatSystem\Chat.Core\bin\Debug\netstandard2.0\Chat.Core.dll
+D:\Other\Work\Personal\Assignment\ChatSystem\Chat.Core\bin\Debug\netstandard2.0\Chat.Core.pdb
+D:\Other\Work\Personal\Assignment\ChatSystem\Chat.Core\obj\Debug\netstandard2.0\Chat.Core.AssemblyInfoInputs.cache
+D:\Other\Work\Personal\Assignment\ChatSystem\Chat.Core\obj\Debug\netstandard2.0\Chat.Core.AssemblyInfo.cs
+D:\Other\Work\Personal\Assignment\ChatSystem\Chat.Core\obj\Debug\netstandard2.0\Chat.Core.csproj.CoreCompileInputs.cache
+D:\Other\Work\Personal\Assignment\ChatSystem\Chat.Core\obj\Debug\netstandard2.0\Chat.Core.dll
+D:\Other\Work\Personal\Assignment\ChatSystem\Chat.Core\obj\Debug\netstandard2.0\Chat.Core.pdb
+D:\Other\Work\Personal\Assignment\ChatSystem\Chat.Core\bin\Debug\netstandard2.0\Chat.Repository.Core.dll
+D:\Other\Work\Personal\Assignment\ChatSystem\Chat.Core\bin\Debug\netstandard2.0\Chat.Repository.Core.pdb
+D:\Other\Work\Personal\Assignment\ChatSystem\Chat.Core\obj\Debug\netstandard2.0\Chat.Core.csprojAssemblyReference.cache
+D:\Other\Work\Personal\Assignment\ChatSystem\Chat.Core\obj\Debug\netstandard2.0\Chat.Core.csproj.CopyComplete

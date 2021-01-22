@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dGkEaqkO011/v6O031fA8jRGhMbJRkOddc2B0RORl4deEvQdtAIJrvHb7+6QXWOSqjntZzcM+/xy0n7nce1TzA==",
+  "success": true,
+  "projectFilePath": "D:\\Other\\Work\\Personal\\Assignment\\ChatSystem\\Chat.Data\\Chat.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saniu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\saniu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\saniu\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
